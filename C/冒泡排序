@@ -1,0 +1,16 @@
+'''
+# include <stdio.h>
+
+int main()
+{
+    double a,b,c,s;
+    a=3.67;
+    b=5.43;
+    c=6.21;
+    s=(a+b+c)/2;
+    printf("设定的a是%f,b是%f,c是%f\n",a,b,c);
+    printf("求得的s是%f\n",s);
+    return 0;
+
+}
+'''
